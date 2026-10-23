@@ -3,3 +3,5 @@
 
 venv/
 build/
+
+SECRET_AMAZON_EC_KEY.txt
